@@ -12,6 +12,7 @@
 - [中华人民共和国消费者权益保护法](http://www.npc.gov.cn/wxzl/gongbao/2014-01/02/content_1823351.htm)
 
 ## 文章 & 报道
+- [苹果赔5亿美元和解“降速门” 每部iPhone拟赔25美元](https://finance.sina.com.cn/chanjing/gsnews/2020-03-04/doc-iimxxstf6208919.shtml)
 - [你的iPhone 7“无服务”了吗？](https://zhuanlan.zhihu.com/p/42278639)
 - [关于"无服务"iPhone 7维修体验](https://sspai.com/post/47349)
 
